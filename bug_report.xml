@@ -1,1 +1,12 @@
+<bug_report>
+       
+          <ID>1</ID>
+          <severity>Discription_of_severity</severity>
+          <title>Discription_of_title</title>
+          <steps>Discription_of_steps</steps>
+          <expected_result>Discription_expected_result</expected_result>
+          <actual_result>Discription_result</actual_result>
+  
+</bug_report>
 
+  
